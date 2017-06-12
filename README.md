@@ -2,5 +2,5 @@
 
 ## Includes benchmark timings
 
-
+![geneCentricAnalysisPipeline](https://s3-ap-southeast-1.amazonaws.com/fundmylife/workflow_pipeline.png)
 
